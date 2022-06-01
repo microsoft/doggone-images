@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>cbdc27cc-105d-448b-9817-cf2f43a8d7a8</connectorid>
+  <description>![image](https://www.clipartkey.com/mpngs/m/40-405806_bull-terrier-siberian-husky-pug-puppy-clip-art.png)
+## How do i get access?
+Just signup for an API Key from https://thedogapi.com for free. We're looking forward to seeing what you build!</description>
+  <displayname>Doggos</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>cr4d5_doggos</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/cr4d5_doggos_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/cr4d5_doggos_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/cr4d5_doggos_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/cr4d5_doggos_iconblob.Png</iconblob>
+</Connector>
